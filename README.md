@@ -35,9 +35,12 @@ copy this id and assign to variable shown below in GoogleSheetApi.dart
  static final _spreadsheetid = 'paste the id here';
 
 ```
+note:- don't forget to share the google sheet with the service mail 
 
 
 # step 3:- 
 ```terminal
 flutter run --no-sound-null-safety
 ```
+Edit and enjoy the app to your wish
+;)
